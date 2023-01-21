@@ -1,2 +1,5 @@
 # acessibilidade4Noobs
-Repositório para você aprender um pouco sobre acessibilidade digital.
+
+## Sobre o Projeto
+
+Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessibilidade na web.
