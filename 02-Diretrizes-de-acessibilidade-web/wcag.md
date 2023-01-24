@@ -22,4 +22,4 @@ Vamos lá, os princípios definem características que o site deve ter e, no doc
 
 Vamos mergulhar um pouco mais no WCAG?
 
-[Próximo subseção: Entendendo melhor o WCAG](./Entendendo-melhor-o-WCAG.md)
+[Próximo subseção: Entendendo melhor o WCAG](./Entendendo-melhor-a-WCAG.md)
