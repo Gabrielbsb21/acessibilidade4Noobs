@@ -20,12 +20,12 @@ Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessib
 
 ## ROADMAP
 
-- [Introdução](./01-Introdu%C3%A7%C3%A3o/)
-- [Diretrizes de acessibilidade web](./02-Diretrizes-de-acessibilidade-web/)
+- [Introdução](./01-Introdução/Introdução-acessibilidade-na-web.md)
+- [Diretrizes de acessibilidade web](./02-Diretrizes-de-acessibilidade-web/Diretrizes-de-acessibilidade-web.md)
   - [WCAG](./02-Diretrizes-de-acessibilidade-web/wcag.md)
   - [Entendendo melhor a WCAG](./02-Diretrizes-de-acessibilidade-web/Entendendo-melhor-a-WCAG.md)
-- [Implementando acessibilidade](./03-Implementando-acessibilidade/)
-- [Boas práticas](./04-Boas-pr%C3%A1ticas/)
+- [Implementando acessibilidade](./03-Implementando-acessibilidade/Implementando-acessibilidade.md)
+- [Boas práticas](./04-Boas-práticas/Boas-praticas.md)
 
 <!-- CONTRIBUTING -->
 
