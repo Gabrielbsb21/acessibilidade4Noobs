@@ -42,6 +42,6 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Gabriel Teixeira da Silva** - Desenvolvedor Front-End - [@gabrielbsb21](https://twitter.com/gabrielbsb21)
+- **Gabriel Teixeira da Silva** - Desenvolvedor Full Stack - [@gabrielbsb21](https://twitter.com/gabrielbsb21)
 
 ---
