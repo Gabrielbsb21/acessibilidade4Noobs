@@ -26,6 +26,8 @@ Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessib
   - [Entendendo melhor a WCAG](./02-Diretrizes-de-acessibilidade-web/Entendendo-melhor-a-WCAG.md)
 - [Implementando acessibilidade](./03-Implementando-acessibilidade/Implementando-acessibilidade.md)
 - [Boas práticas](./04-Boas-práticas/Boas-praticas.md)
+- [Wai Aria](./05-Wai-aria/Wai-aria.md)
+  - [Como Usar Wai Aria](./05-Wai-aria/como-usar-wai-aria.md)
 
 <!-- CONTRIBUTING -->
 
