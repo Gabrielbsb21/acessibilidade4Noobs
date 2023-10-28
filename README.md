@@ -28,6 +28,7 @@ Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessib
 - [Boas práticas](./04-Boas-práticas/Boas-praticas.md)
 - [Wai Aria](./05-Wai-aria/Wai-aria.md)
   - [Como Usar Wai Aria](./05-Wai-aria/como-usar-wai-aria.md)
+- [Ferramentas](./06-Ferramentas/Ferramentas.md)
 
 <!-- CONTRIBUTING -->
 
